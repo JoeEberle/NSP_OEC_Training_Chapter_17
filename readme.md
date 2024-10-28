@@ -31,12 +31,12 @@
 
 The normal reproductive cycle of a woman, also known as the **menstrual cycle**, is a regular natural process that prepares the body for pregnancy. It typically lasts around **28 days** but can vary from **21 to 35 days** in different individuals. The cycle is controlled by hormones and involves the following key phases:
 
-### 1. **Menstrual Phase (Days 1–5)**
+### 1. **Menstrual Phase (Days 1â€“5)**
    - **What Happens**: This phase marks the beginning of the menstrual cycle. If the previous cycle did not result in pregnancy, the **lining of the uterus (endometrium)** sheds, leading to menstrual bleeding. 
    - **Hormones**: Levels of **estrogen** and **progesterone** are low, which triggers the shedding of the uterine lining.
    - **Duration**: Typically lasts **3 to 7 days**, depending on the individual.
 
-### 2. **Follicular Phase (Days 1–13)**
+### 2. **Follicular Phase (Days 1â€“13)**
    - **What Happens**: This phase overlaps with the menstrual phase and continues afterward. The **pituitary gland** in the brain releases **follicle-stimulating hormone (FSH)**, which stimulates the ovaries to produce **several follicles**. Each follicle contains an immature egg, but usually, only one becomes dominant and matures fully.
    - **Endometrium Growth**: The uterus starts to prepare for a potential pregnancy by thickening its lining (endometrium) as a result of rising **estrogen** levels produced by the developing follicles.
    - **Hormones**: **FSH** promotes follicle development, while **estrogen** helps in rebuilding and thickening the uterine lining.
@@ -46,7 +46,7 @@ The normal reproductive cycle of a woman, also known as the **menstrual cycle**,
    - **Hormones**: A surge in **luteinizing hormone (LH)**, triggered by rising estrogen levels, causes the release of the egg. This LH surge is what signals ovulation.
    - **Timing**: Ovulation generally occurs **mid-cycle**, around **day 14** in a 28-day cycle, but this can vary depending on the length of the cycle.
 
-### 4. **Luteal Phase (Days 15–28)**
+### 4. **Luteal Phase (Days 15â€“28)**
    - **What Happens**: After the egg is released, the empty follicle transforms into a structure called the **corpus luteum**, which secretes **progesterone**. Progesterone maintains and thickens the uterine lining, making it more suitable for implantation of a fertilized egg.
    - **Possible Outcomes**:
      - **If Fertilization Occurs**: The fertilized egg travels to the uterus and implants into the thickened lining. The body then continues to produce progesterone to support early pregnancy.
@@ -60,10 +60,10 @@ The normal reproductive cycle of a woman, also known as the **menstrual cycle**,
 4. **Progesterone**: Maintains the uterine lining in preparation for a fertilized egg.
 
 ### Cycle Recap:
-- **Days 1–5**: **Menstrual Phase** - Shedding of the uterine lining.
-- **Days 1–13**: **Follicular Phase** - Development of follicles, rebuilding of the uterine lining.
+- **Days 1â€“5**: **Menstrual Phase** - Shedding of the uterine lining.
+- **Days 1â€“13**: **Follicular Phase** - Development of follicles, rebuilding of the uterine lining.
 - **Day 14**: **Ovulation Phase** - Release of the mature egg.
-- **Days 15–28**: **Luteal Phase** - Preparation for potential pregnancy, maintenance of the uterine lining.
+- **Days 15â€“28**: **Luteal Phase** - Preparation for potential pregnancy, maintenance of the uterine lining.
 
 Understanding the menstrual cycle is important for tracking fertility, managing reproductive health, and recognizing when something may be irregular, indicating a potential health issue.
 
@@ -71,11 +71,11 @@ Understanding the menstrual cycle is important for tracking fertility, managing 
 
 ## 17.2 List normal changes in vital signs a women experiences during pregnancy.
 
-During pregnancy, a woman’s body undergoes significant physiological changes, including alterations in vital signs. These changes are normal and are the body’s way of adapting to support both the mother and the growing fetus. Here are the typical changes in vital signs during pregnancy:
+During pregnancy, a womanâ€™s body undergoes significant physiological changes, including alterations in vital signs. These changes are normal and are the bodyâ€™s way of adapting to support both the mother and the growing fetus. Here are the typical changes in vital signs during pregnancy:
 
 ### 1. **Heart Rate (Pulse)**
-   - **Increase**: The heart rate usually increases by **10–15 beats per minute (bpm)**, especially in the second and third trimesters.
-   - **Reason**: The heart works harder to pump the increased volume of blood circulating in the body (about 30–50% more blood volume). This increase is necessary to provide sufficient oxygen and nutrients to the fetus and placenta.
+   - **Increase**: The heart rate usually increases by **10â€“15 beats per minute (bpm)**, especially in the second and third trimesters.
+   - **Reason**: The heart works harder to pump the increased volume of blood circulating in the body (about 30â€“50% more blood volume). This increase is necessary to provide sufficient oxygen and nutrients to the fetus and placenta.
 
 ### 2. **Blood Pressure**
    - **First and Second Trimesters**: Blood pressure may **decrease** slightly during early and mid-pregnancy. 
@@ -97,19 +97,19 @@ During pregnancy, a woman’s body undergoes significant physiological changes, in
 
 ### 6. **Weight**
    - **Gradual Increase**: Weight gain is a normal and expected change during pregnancy.
-     - **Typical Weight Gain**: The average weight gain for a full-term pregnancy is about **25–35 pounds** (11–16 kg), but this can vary depending on the individual’s pre-pregnancy weight and overall health.
+     - **Typical Weight Gain**: The average weight gain for a full-term pregnancy is about **25â€“35 pounds** (11â€“16 kg), but this can vary depending on the individualâ€™s pre-pregnancy weight and overall health.
 
 ### Summary of Normal Changes:
 | **Vital Sign**         | **Normal Change During Pregnancy**                        |
 |------------------------|-----------------------------------------------------------|
-| **Heart Rate**         | Increases by 10–15 bpm                                    |
+| **Heart Rate**         | Increases by 10â€“15 bpm                                    |
 | **Blood Pressure**     | Slight decrease in early pregnancy, returns to baseline by third trimester |
 | **Respiratory Rate**   | Slight increase or remains stable, with increased tidal volume |
 | **Temperature**        | Mild increase due to metabolic and hormonal changes       |
 | **Oxygen Saturation**  | Remains generally unchanged                               |
-| **Weight**             | Gradual increase, average gain of 25–35 pounds            |
+| **Weight**             | Gradual increase, average gain of 25â€“35 pounds            |
 
-These changes are part of the body’s adaptation to pregnancy, and while they are typically normal, significant deviations (e.g., very high blood pressure, rapid weight gain, or shortness of breath) may require further evaluation to ensure the health and safety of both the mother and the fetus.
+These changes are part of the bodyâ€™s adaptation to pregnancy, and while they are typically normal, significant deviations (e.g., very high blood pressure, rapid weight gain, or shortness of breath) may require further evaluation to ensure the health and safety of both the mother and the fetus.
 
 
 ## 17.3 Explain how to take a blood pressure in a pregnant woman.
@@ -147,9 +147,9 @@ Taking blood pressure in a pregnant woman is similar to the standard procedure f
 
 5. **Measure the Blood Pressure**:
    - **Palpate the brachial artery**: Place your fingers on the inside of the elbow to feel the brachial pulse.
-   - Inflate the cuff to about **20–30 mmHg above** where the pulse disappears (or if known, **20 mmHg above the expected systolic pressure**).
-   - **Place the stethoscope’s diaphragm** over the brachial artery, just below the cuff.
-   - **Slowly release** the pressure in the cuff (at a rate of about **2–3 mmHg per second**) while listening through the stethoscope.
+   - Inflate the cuff to about **20â€“30 mmHg above** where the pulse disappears (or if known, **20 mmHg above the expected systolic pressure**).
+   - **Place the stethoscopeâ€™s diaphragm** over the brachial artery, just below the cuff.
+   - **Slowly release** the pressure in the cuff (at a rate of about **2â€“3 mmHg per second**) while listening through the stethoscope.
    - Note the **systolic pressure** (the first sound you hear) and the **diastolic pressure** (when the sound disappears).
 
 6. **Record the Reading**:
@@ -162,7 +162,7 @@ Taking blood pressure in a pregnant woman is similar to the standard procedure f
 - **Be mindful of white coat hypertension**: Anxiety about medical visits can cause temporarily elevated readings. If readings are high, consider taking multiple readings over a few minutes, or using a home blood pressure monitor for regular monitoring.
 
 ### Tips for Accuracy:
-- Take at least **two readings, spaced 1–2 minutes apart**, and record the average.
+- Take at least **two readings, spaced 1â€“2 minutes apart**, and record the average.
 - Ensure the **patient has not consumed caffeine or smoked** within **30 minutes** of the reading, as this can affect blood pressure.
 - Be consistent with the **time of day** when measuring blood pressure, as there can be natural fluctuations throughout the day.
 
@@ -174,7 +174,7 @@ Monitoring blood pressure is crucial during pregnancy because **hypertension** c
 
 ## 17.4  Describe what happens to the mother and fetus during shock.
 
-Shock is a critical condition where there is inadequate blood flow to the tissues, leading to insufficient oxygen and nutrient delivery to cells. During pregnancy, shock can have serious consequences for both the mother and the fetus. Here’s what happens to each:
+Shock is a critical condition where there is inadequate blood flow to the tissues, leading to insufficient oxygen and nutrient delivery to cells. During pregnancy, shock can have serious consequences for both the mother and the fetus. Hereâ€™s what happens to each:
 
 ### Effects of Shock on the Mother
 1. **Cardiovascular System**:
@@ -183,7 +183,7 @@ Shock is a critical condition where there is inadequate blood flow to the tissue
    - **Vasoconstriction**: Blood vessels constrict to preserve blood flow to critical organs (brain and heart), leading to reduced blood flow to less vital areas.
 
 2. **Respiratory System**:
-   - **Increased Breathing Rate (Tachypnea)**: The mother’s breathing becomes rapid and shallow in an attempt to increase oxygen intake.
+   - **Increased Breathing Rate (Tachypnea)**: The motherâ€™s breathing becomes rapid and shallow in an attempt to increase oxygen intake.
    - **Decreased Oxygen Saturation**: With the progression of shock, there is less oxygen circulating in the blood, leading to hypoxia (low oxygen levels).
 
 3. **Skin and Extremities**:
@@ -204,7 +204,7 @@ Shock is a critical condition where there is inadequate blood flow to the tissue
 
 ### Effects of Shock on the Fetus
 1. **Reduced Oxygen and Nutrient Supply**:
-   - The fetus relies on the placenta for oxygen and nutrients, which are supplied by the mother's blood. During shock, the mother’s body prioritizes blood flow to her vital organs (heart and brain), leading to **reduced blood flow to the placenta**.
+   - The fetus relies on the placenta for oxygen and nutrients, which are supplied by the mother's blood. During shock, the motherâ€™s body prioritizes blood flow to her vital organs (heart and brain), leading to **reduced blood flow to the placenta**.
    - This can cause **fetal hypoxia** (low oxygen levels), which can result in distress, abnormal fetal heart rate patterns, and potential long-term complications.
 
 2. **Fetal Heart Rate Changes**:
@@ -225,7 +225,7 @@ Shock is a critical condition where there is inadequate blood flow to the tissue
 ### Types of Shock and Their Impact
 1. **Hypovolemic Shock** (e.g., from hemorrhage):
    - Common in pregnancy due to conditions like **placental abruption, uterine rupture, or postpartum hemorrhage**.
-   - Can lead to significant blood loss, reducing the mother’s ability to supply blood to the fetus.
+   - Can lead to significant blood loss, reducing the motherâ€™s ability to supply blood to the fetus.
 
 2. **Septic Shock** (e.g., from severe infection):
    - Infection during pregnancy can lead to septic shock, where widespread inflammation causes blood vessel dilation and reduced blood pressure.
@@ -247,9 +247,9 @@ In summary, shock during pregnancy is a medical emergency that affects both the 
 
 ## 17.5 Describe the three trimesters of a normal pregnancy.
 
-A normal pregnancy is typically divided into **three trimesters**, each lasting about **three months**. During these trimesters, the mother’s body and the developing fetus undergo significant changes. Here’s an overview of what happens in each trimester:
+A normal pregnancy is typically divided into **three trimesters**, each lasting about **three months**. During these trimesters, the motherâ€™s body and the developing fetus undergo significant changes. Hereâ€™s an overview of what happens in each trimester:
 
-### **First Trimester (Weeks 1–12)**
+### **First Trimester (Weeks 1â€“12)**
 The first trimester begins from the moment of conception and lasts through the **12th week** of pregnancy. This is a critical period for the development of the baby.
 
 #### **Maternal Changes:**
@@ -262,47 +262,47 @@ The first trimester begins from the moment of conception and lasts through the *
   - **Food Cravings or Aversions**: Changes in appetite, cravings for certain foods, or aversions to others.
 
 #### **Fetal Development:**
-- **Weeks 1–4**: After fertilization, the fertilized egg (zygote) travels down the fallopian tube and implants in the uterine wall. The cells begin to divide and form an **embryo**.
-- **Weeks 5–8**: Major organs and body systems start to form, including the heart, brain, spinal cord, and lungs. By the end of the 8th week, the embryo has arms, legs, and fingers.
-- **Weeks 9–12**: The embryo is now referred to as a **fetus**. The major organs continue to develop, and the fetus begins to look more human. The **heartbeat** can be detected on an ultrasound.
+- **Weeks 1â€“4**: After fertilization, the fertilized egg (zygote) travels down the fallopian tube and implants in the uterine wall. The cells begin to divide and form an **embryo**.
+- **Weeks 5â€“8**: Major organs and body systems start to form, including the heart, brain, spinal cord, and lungs. By the end of the 8th week, the embryo has arms, legs, and fingers.
+- **Weeks 9â€“12**: The embryo is now referred to as a **fetus**. The major organs continue to develop, and the fetus begins to look more human. The **heartbeat** can be detected on an ultrasound.
 
-### **Second Trimester (Weeks 13–26)**
+### **Second Trimester (Weeks 13â€“26)**
 The second trimester is often considered the most comfortable phase for many women, as early symptoms like nausea typically subside, and energy levels may improve. This period spans from the **13th to the 26th week**.
 
 #### **Maternal Changes:**
 - **Reduced Morning Sickness**: Nausea and vomiting usually decrease.
 - **Increased Energy**: Many women report feeling more energetic.
 - **Growing Belly**: The **uterus expands** beyond the pelvis, and the abdomen starts to grow more visibly.
-- **Feeling Fetal Movements**: Around **18–20 weeks**, many women begin to feel the baby move (quickening).
+- **Feeling Fetal Movements**: Around **18â€“20 weeks**, many women begin to feel the baby move (quickening).
 - **Breast Enlargement**: Breasts continue to grow, and the **areolae** (the dark area around the nipples) may darken.
 - **Skin Changes**: The skin may show changes like the **linea nigra** (a dark line running from the belly button down to the pubic bone) and **stretch marks**.
 
 #### **Fetal Development:**
-- **Weeks 13–16**: The fetus continues to grow and develop. Facial features, like **eyes and ears**, move into their correct positions. The fetus can make **movements**, although they may not yet be felt by the mother.
-- **Weeks 17–20**: The fetus becomes more active, and movements are often felt by the mother. The **skeleton** starts to harden, and the fetus can **hear sounds**.
-- **Weeks 21–26**: The fetus continues to grow rapidly. The **lungs** begin to develop air sacs (though they are not yet functional), and the baby may start to respond to external stimuli like sounds and light. The **brain** and **nervous system** continue to mature.
+- **Weeks 13â€“16**: The fetus continues to grow and develop. Facial features, like **eyes and ears**, move into their correct positions. The fetus can make **movements**, although they may not yet be felt by the mother.
+- **Weeks 17â€“20**: The fetus becomes more active, and movements are often felt by the mother. The **skeleton** starts to harden, and the fetus can **hear sounds**.
+- **Weeks 21â€“26**: The fetus continues to grow rapidly. The **lungs** begin to develop air sacs (though they are not yet functional), and the baby may start to respond to external stimuli like sounds and light. The **brain** and **nervous system** continue to mature.
 
-### **Third Trimester (Weeks 27–40)**
+### **Third Trimester (Weeks 27â€“40)**
 The third trimester is the final stage of pregnancy, from **week 27 until birth** (around week 40). During this period, the fetus gains most of its weight and prepares for life outside the womb.
 
 #### **Maternal Changes:**
-- **Rapid Weight Gain**: As the baby grows, the mother’s weight increases.
+- **Rapid Weight Gain**: As the baby grows, the motherâ€™s weight increases.
 - **Increased Discomfort**: Due to the size and weight of the baby, women may experience **back pain, leg cramps, swelling (edema)**, and **shortness of breath**.
 - **Braxton Hicks Contractions**: These are **irregular, mild contractions** that prepare the uterus for labor, often called "practice contractions."
 - **Frequent Urination**: The growing uterus presses on the bladder, leading to more frequent trips to the bathroom.
 - **Preparation for Labor**: The body begins to prepare for delivery, with changes like the **softening of the cervix** and the baby "dropping" lower into the pelvis (lightening).
 
 #### **Fetal Development:**
-- **Weeks 27–30**: The fetus continues to grow and develop fat beneath the skin, which helps with temperature regulation after birth. **Brain development** is rapid, and the fetus may be able to open and close its eyes.
-- **Weeks 31–35**: The fetus gains weight quickly, and organs continue to mature. The **lungs** develop further, though full maturity may not be reached until later in the third trimester. The baby’s movements are stronger and more coordinated.
-- **Weeks 36–40**: The fetus moves into a **head-down position** (in preparation for birth), though this can vary. By **week 37**, the pregnancy is considered **full term**. The baby’s organs, particularly the lungs, are fully mature, and the fetus continues to gain weight until birth.
+- **Weeks 27â€“30**: The fetus continues to grow and develop fat beneath the skin, which helps with temperature regulation after birth. **Brain development** is rapid, and the fetus may be able to open and close its eyes.
+- **Weeks 31â€“35**: The fetus gains weight quickly, and organs continue to mature. The **lungs** develop further, though full maturity may not be reached until later in the third trimester. The babyâ€™s movements are stronger and more coordinated.
+- **Weeks 36â€“40**: The fetus moves into a **head-down position** (in preparation for birth), though this can vary. By **week 37**, the pregnancy is considered **full term**. The babyâ€™s organs, particularly the lungs, are fully mature, and the fetus continues to gain weight until birth.
 
 ### Summary of Key Changes:
 | **Trimester**     | **Maternal Changes**                                           | **Fetal Development**                              |
 |-------------------|---------------------------------------------------------------|----------------------------------------------------|
-| **First (1–12 weeks)**  | Nausea, fatigue, breast tenderness, frequent urination        | Development of major organs, formation of embryo   |
-| **Second (13–26 weeks)** | Energy boost, growing belly, feeling fetal movements          | Rapid growth, organ maturation, movement felt      |
-| **Third (27–40 weeks)**  | Weight gain, discomfort, Braxton Hicks contractions, preparation for labor | Final weight gain, full organ maturity, head-down position |
+| **First (1â€“12 weeks)**  | Nausea, fatigue, breast tenderness, frequent urination        | Development of major organs, formation of embryo   |
+| **Second (13â€“26 weeks)** | Energy boost, growing belly, feeling fetal movements          | Rapid growth, organ maturation, movement felt      |
+| **Third (27â€“40 weeks)**  | Weight gain, discomfort, Braxton Hicks contractions, preparation for labor | Final weight gain, full organ maturity, head-down position |
 
 ### Conclusion:
 Each trimester brings unique changes and developments for both the mother and the fetus. Regular **prenatal care** is essential throughout pregnancy to monitor the health of both and address any complications that may arise. Understanding the progression of a normal pregnancy can help expectant mothers prepare for what to expect and recognize any potential concerns early.
@@ -379,12 +379,12 @@ Pregnancy is a complex process, and while many pregnancies progress without sign
 
 ### 11. **Amniotic Fluid Abnormalities**
    - **Too Little Amniotic Fluid (Oligohydramnios)**:
-     - Can cause issues with the baby’s growth, lung development, and lead to complications during delivery.
+     - Can cause issues with the babyâ€™s growth, lung development, and lead to complications during delivery.
    - **Too Much Amniotic Fluid (Polyhydramnios)**:
      - Can lead to preterm labor, placental abruption, and complications during delivery.
 
 ### 12. **Rh Incompatibility**
-   - **Description**: A condition where the **mother's blood type** is Rh-negative, and the baby’s blood type is Rh-positive. The mother’s immune system may produce antibodies that attack the baby’s red blood cells.
+   - **Description**: A condition where the **mother's blood type** is Rh-negative, and the babyâ€™s blood type is Rh-positive. The motherâ€™s immune system may produce antibodies that attack the babyâ€™s red blood cells.
    - **Possible Complications**:
      - For the baby: Risk of **hemolytic disease**, jaundice, anemia, heart failure, and in severe cases, stillbirth.
    - **Prevention**: Rh-negative mothers can receive an **injection of Rh immunoglobulin (RhoGAM)** to prevent antibody formation.
@@ -435,7 +435,7 @@ Management of a pregnant patient with abdominal trauma requires careful and prom
    - Check **vital signs** frequently, looking for signs of shock (e.g., low blood pressure, rapid pulse) and address them immediately.
 
 2. **Positioning**:
-   - Place the patient in a **left lateral tilt position** (tilted about 15–30 degrees) to prevent compression of the **inferior vena cava** by the uterus, which can lead to **supine hypotensive syndrome**.
+   - Place the patient in a **left lateral tilt position** (tilted about 15â€“30 degrees) to prevent compression of the **inferior vena cava** by the uterus, which can lead to **supine hypotensive syndrome**.
    - Avoid laying the patient flat on her back for extended periods.
 
 3. **Rapid Physical Examination**:
@@ -471,11 +471,11 @@ Management requires a multidisciplinary approach, continuous reassessment, and r
 
 - **Assist with Crowning**: As the baby's head begins to **crown** (the widest part of the head is visible), gently support the head with your hands to **control its emergence**, preventing rapid delivery that could cause tearing. Encourage the mother to push gently.
 
-- **Check for the Umbilical Cord**: Once the head is delivered, check if the **umbilical cord is around the baby’s neck**. If so, gently attempt to slip it over the head. If the cord is tight and cannot be moved, it may need to be **clamped and cut**.
+- **Check for the Umbilical Cord**: Once the head is delivered, check if the **umbilical cord is around the babyâ€™s neck**. If so, gently attempt to slip it over the head. If the cord is tight and cannot be moved, it may need to be **clamped and cut**.
 
-- **Delivery of the Shoulders and Body**: After the head is delivered, guide the head **downward** to help release the **top shoulder** and then **upward** to deliver the **bottom shoulder**. The rest of the baby’s body should follow easily.
+- **Delivery of the Shoulders and Body**: After the head is delivered, guide the head **downward** to help release the **top shoulder** and then **upward** to deliver the **bottom shoulder**. The rest of the babyâ€™s body should follow easily.
 
-- **Immediate Newborn Care**: Once the baby is delivered, **dry and warm the baby** immediately, **clear the airway** with a bulb syringe if needed, and **clamp and cut the umbilical cord** after it stops pulsating. Place the baby **skin-to-skin** on the mother’s chest to promote bonding and warmth.
+- **Immediate Newborn Care**: Once the baby is delivered, **dry and warm the baby** immediately, **clear the airway** with a bulb syringe if needed, and **clamp and cut the umbilical cord** after it stops pulsating. Place the baby **skin-to-skin** on the motherâ€™s chest to promote bonding and warmth.
 
 ## 17.11  Explain what to do when there is a possible sexual assault of a woman.
 
@@ -528,7 +528,7 @@ Basic care for a newborn involves providing a safe, nurturing, and supportive en
 
 ### 2. **Keeping the Newborn Warm**
    - **Skin-to-Skin Contact**: Immediately after birth, skin-to-skin contact with the mother helps regulate the baby's body temperature. Continue to use this method frequently in the first days.
-   - **Clothing and Swaddling**: Dress the baby in **light layers** and use a **swaddle** to keep them warm and comforted. Avoid overdressing, as babies can overheat easily. The baby’s room should be kept at a comfortable temperature (around **68-72°F or 20-22°C**).
+   - **Clothing and Swaddling**: Dress the baby in **light layers** and use a **swaddle** to keep them warm and comforted. Avoid overdressing, as babies can overheat easily. The babyâ€™s room should be kept at a comfortable temperature (around **68-72Â°F or 20-22Â°C**).
 
 ### 3. **Hygiene and Umbilical Cord Care**
    - **Bathing**: Newborns do not need daily baths. **Sponge baths** are recommended until the **umbilical cord stump falls off** (usually within 1-2 weeks). After that, you can give the baby a bath **2-3 times a week**.
@@ -543,8 +543,8 @@ Basic care for a newborn involves providing a safe, nurturing, and supportive en
    - **Sleep Environment**: Use a **firm mattress** in a crib or bassinet without loose bedding, pillows, or stuffed animals. The baby should sleep in the same room as the parents for the first **6 months**, but not in the same bed.
 
 ### 6. **Routine Health Care**
-   - **Pediatric Check-Ups**: Schedule regular check-ups with a pediatrician to monitor the baby’s growth, development, and overall health. Immunizations should be given according to the recommended schedule.
-   - **Monitoring for Jaundice**: Newborns may develop **jaundice**, a yellowing of the skin and eyes. It’s usually harmless but should be monitored, especially if it appears within the first few days.
+   - **Pediatric Check-Ups**: Schedule regular check-ups with a pediatrician to monitor the babyâ€™s growth, development, and overall health. Immunizations should be given according to the recommended schedule.
+   - **Monitoring for Jaundice**: Newborns may develop **jaundice**, a yellowing of the skin and eyes. Itâ€™s usually harmless but should be monitored, especially if it appears within the first few days.
 
 ### 7. **Bonding and Emotional Care**
    - **Cuddling and Holding**: Physical closeness, cuddling, and skin-to-skin contact promote bonding, comfort, and a sense of security for the newborn.
@@ -558,7 +558,7 @@ Basic care for a newborn involves providing a safe, nurturing, and supportive en
 - **Healthcare**: Attend regular pediatric appointments and monitor for any health concerns.
 - **Bonding**: Provide love, warmth, and comfort through close contact and attentive care.
 
-These aspects ensure the baby’s physical well-being and support their emotional and developmental needs.
+These aspects ensure the babyâ€™s physical well-being and support their emotional and developmental needs.
 
 
 
